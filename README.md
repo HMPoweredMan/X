@@ -28,7 +28,7 @@ With a full soundtrack this will enable use with MSU-1 to be played with the ori
 The intent of the project is accuracy so the issue tracker will be intended for people to report inconsistencies in the high quality tracks with the originals.
 This repository will house 16-bit 44100 audio tracks for listening and comparison.
 
-If you want access to 24 bit FLAC versions of the tracks I will provide a link to Patrons on Patreon patreon.com/hmpoweredman
+If you want access to 24 bit FLAC versions of the tracks I will provide a link to Patrons on Patreon http://patreon.com/hmpoweredman
 
 **Things to listen for:**
 - Timbre - *Do instruments sound the way they should?*
