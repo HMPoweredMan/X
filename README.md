@@ -19,9 +19,12 @@ Part of the project is to determine what hardware and PCM data was used to origi
 - SN-U110-02 (Sound Effects)
 - MPC-012 (Synth 3)
 
+![Equipment](/images/Rack.jpg)
+
 With a full soundtrack this will enable use with MSU-1 to be played with the original game in addition to a potential digitial and vinyl release.
 
 **Bug reporting**
+
 The intent of the project is accuracy so the issue tracker will be intended for people to report inconsistencies in the high quality tracks with the originals.
 This repository will house 16-bit 44100 audio tracks for listening and comparison.
 
