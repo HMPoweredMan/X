@@ -32,8 +32,8 @@ If you want access to 24 bit FLAC versions of the tracks I will provide a link t
 
 **Things to listen for:**
 - Timbre - *Do instruments sound the way they should?*
-- Volume - *Is volume accureate relative to other instruments?*
-- EQ - *Is bass or treble accurate for specific instruments?*
+- Volume - *Is volume accurate relative to other instruments?*
+- EQ - *Are bass and treble accurate for specific instruments?*
 - Expression - *Are pitch bends and vibrato, portamento accurate and present?*
 - Effects - *Do reverb and delay effects sound correct?*
 - Stereo Separation - *Are notes playing in the correct pan positions?*
